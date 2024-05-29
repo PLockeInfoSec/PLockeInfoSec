@@ -16,7 +16,7 @@ Cyber Security and CTI Analyst currently in the US. <a target="_blank" rel="noop
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000"><img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="120" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/?size=100&id=13443&format=png&color=000000"><img src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" width="120" style="max-width: 100%;"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PLockeInfoSec&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PLockeInfoSec&row=3&column=6&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 PLockeInfoSec/PLockeInfoSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
