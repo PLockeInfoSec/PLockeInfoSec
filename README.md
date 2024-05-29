@@ -31,3 +31,6 @@ PLockeInfoSec/PLockeInfoSec is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![Visitor Count](https://profile-counter.glitch.me/PLockeInfoSec/count.svg)
+
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+
